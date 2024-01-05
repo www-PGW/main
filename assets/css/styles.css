@@ -6,3 +6,43 @@ div {
   font-family: 'Minecraft Rus';
 }
 
+.villagers {
+  image-rendering: auto;
+  background-color: inherit;
+  border: inherit;
+  margin: -50px;
+  background-image: url('assets/img/type/s-plains.png');
+  height: 512px;
+  scale: 0.2;
+  width: 256px;
+  margin-top: -150px;
+}
+
+.plains {
+  background-image: url('assets/img/type/s-plains.png');
+}
+
+.desert {
+  background-image: url('../../assets/img/type/s-desert.png');
+}
+
+.jungle {
+  background-image: url('../../assets/img/type/s-jungle.png');
+}
+
+.savanna {
+  background-image: url('../../assets/img/type/s-savanna.png');
+}
+
+.snow {
+  background-image: url('../../assets/img/type/s-show.png');
+}
+
+.swamp {
+  background-image: url('../../assets/img/type/s-swamp.png');
+}
+
+.taiga {
+  background-image: url('../../assets/img/type/s-taiga.png');
+}
+
